@@ -1,0 +1,4 @@
+notepad++ .gitignore
+*.log
+node_modules/
+.env
