@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-change in main
-=======
-change in test
->>>>>>> test
+
 change from main branch
+
+change from test branch
